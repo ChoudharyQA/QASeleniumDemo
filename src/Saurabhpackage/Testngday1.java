@@ -34,6 +34,7 @@ public class Testngday1 {
 		System.out.println("Hello");
 		System.out.println("Hello2");
 		System.out.println("Hello3");
+		System.out.println("Hello4");
 	}
 		@AfterMethod // This will run after every method of this class (Testngday1)
 		public void afterEveryMethod() {
